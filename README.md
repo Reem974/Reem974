@@ -74,10 +74,7 @@
    <a href="https://github.com/OmarrSakr" target="_blank" title="GitHub" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
         alt="GitHub" style="max-width: 100%; height: auto;"></a>
- <a href="https://codeforces.com/profile/horse-13" target="_blank" title="Codeforces" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-%231877F2.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
-        alt="Codeforces Profile" 
-        style="max-width: 100%; height: auto;"></a>
+
   <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
         alt="CCNA" style="max-width: 100%;"></a>
