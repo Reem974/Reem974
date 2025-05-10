@@ -123,7 +123,7 @@
    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MySQL" style="max-width: 100%;"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
+<!--<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
         alt="Visual Studio Code" style="max-width: 100%;"></a>
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
@@ -134,7 +134,7 @@
             alt="Illustrator" style="max-width: 100%;"></a>
     <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20photoshop-%23D83C36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"
-            alt="Photoshop" style="max-width: 100%;"></a>
+            alt="Photoshop" style="max-width: 100%;"></a>-->
 </p>
 
 <div>
