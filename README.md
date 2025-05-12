@@ -53,7 +53,7 @@
   <li>👩‍🏫 I previously worked as a <code>Teaching Assistant</code> at the university.</li>
   <li>💻 I'm a passionate <code>Frontend Developer</code> with a focus on building interactive and responsive web interfaces.</li>
   <li>🔭 Currently working as a <code>freelancer</code> in web development.</li>
-  <li>🌱 Currently learning and expanding my skills in <code>Backend Development</code>.</li>
+ <!-- <li>🌱 Currently learning and expanding my skills in <code></code>.</li>-->
   <li>📫 Reach me at: <strong><a href="mailto:Maherreem07@gmail.com"><code>ReemMaher@gmail.com</code></a></strong></li>
   <li>🚀 Open to exciting <code>job opportunities</code>! Check my <a href="https://drive.google.com/file/YOUR_RESUME_LINKhttps://drive.google.com/file/d/1hg4W1BZj2qlcU9jH3I7v6siAhL6u7dYH/view?usp=sharing" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay ahead in the field.</li>
